@@ -7,13 +7,11 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="">
-      <img src="images/downloading.png" alt="Logo" width="130" height="130">
+      ![](images/downloading.pn)width="130" height="130">
    </a>
   <h2 align="center"> Mp3 Converter </h2>
 
@@ -25,8 +23,6 @@
     <br />
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -52,25 +48,22 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<div align="center">
-  <img src="images/app_screenshot.png" alt="Logo" >
-  <img src="images/app_screenshot_light.png" alt="Logo"  >
-</div>
+
+![](images/app_screenshot.png)
+
+![](images/app_screenshot_light.png")
+
 There are many great Mp3 Converter available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one.
 
 Here's why:
+
 * Multi threads technology
 * Easy user interface
 * You tube research
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -100,8 +93,6 @@ Here's why:
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -121,8 +112,6 @@ Distributed under the GNU General Public License v3.0 License. See <a href="http
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -131,8 +120,6 @@ Roberto Scandale - [@roberto_scandale](https://www.instagram.com/roberto_scandal
 Project Link: [https://github.com/lomWs/mp3_converter](https://github.com/lomWs/mp3_converter)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -149,8 +136,6 @@ A few of helpful link
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS -->
 
